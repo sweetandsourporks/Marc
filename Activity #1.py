@@ -1,6 +1,6 @@
 # Activity No: 1
-# Task: Create a Simple Calculator Program
-# Description: This is a calculator that works by inputting the first 2 numbers then deciding what arithmetic operation will be done
+# Task: Basic Arithmetic Calculator
+# Description: Create a simple calculator that takes in two numbers and performs addition, subtraction, multiplication, or division based on user input
 # Student Name: Granada, Marc Justin Lee G.
 # Course / Year-Section: BSIT 1-1
 # Date: October 5, 2024
